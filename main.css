@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    font-family: 'Fira Sans', sans-serif;
+}
+header {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: flex;
+    justify-content: space-between;
+    width: 1140px;
+    margin: auto;
+}
+main {
+    width: 1140px;
+    margin: auto;
+}
+.left__blok {
+    width: 50%;
+}
+.title {
+    font-size: 60px;
+}
+.sub__title {
+    font-size: 18px;
+    color: #222;
+    margin: 0;
+    margin-bottom: 60px;
+    width: 474px;
+}
+.button__started {
+    width: 189px;
+    height: 50px;
+    background-color: #3726F2;
+    font-size: 14px;
+    color: #fff;
+    line-height: 50px;
+    text-align: center;
+    margin-bottom: 189px;
+}
+.banner__started {
+    display: flex;
+}
+.right__blok {
+    width: 50%;
+    background: url(images/Placeholder.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 840px;
+    margin-bottom: 140px;
+}
+.img-1 {
+    width: 400px;
+    height: 310px;
+    position: relative;
+    top: 364px;
+    right: 100px;
+}
+.play {
+    position: relative; 
+    top: 245px;
+    right: 335px;
+}
+.banner__people {
+    width: 40%;
+}
+.info__people {
+    display: flex;
+    justify-content: space-between
+}
+.title__people {
+    font-size: 40px;
+    color: #222;
+}
+.sub__people {
+    color: #222;
+    font-size: 18px;
+    width: 444px;
+}
+.info__denis {
+    width: 50%;
+}
+.img__people {
+    display: flex;
+    align-items: center;
+    padding-top: 61px;
+}
+.d-sh {
+    margin-left: 20px;
+}
+.ava {
+    height: 65px;
+    width: 65px;
+}
+.img__people p {
+    color: #222;
+    font-size: 18px;
+}
+.services__p {
+    color: #8F8F8F;
+    margin-top: 142px;
+    font-size: 18px;
+    padding-bottom: 50px;
+}
+.title__services {
+    font-size: 40px;
+    color: #222;
+    margin: 0
+    
+}
+.wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.right__blok__2 {
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+}
+.left__blok__2 {
+    width: 50%;
+}
+.right__blok__2 p {
+    font-size: 18px;
+    color: #222;
+    margin-top: 0;
+    opacity: .5
+}
+.media__banner {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.media__banner {
+    
+}
